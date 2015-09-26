@@ -1,5 +1,5 @@
 # ruby_for_algebra_students
-Small lessons in Ruby solving algebra questions
+Small lessons in Ruby solving algebraic equations
 
 or 
 

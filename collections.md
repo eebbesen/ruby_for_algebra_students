@@ -1,6 +1,6 @@
 ## Collections 
 
-Collections are simply groups of things.  You probably have collections of things that are related.  The collections we're going to talk about are collections of numbers.  We will use collections so we can type less code.
+Collections are groups of things.  The collections we're going to talk about are collections of numbers.  We will use collections so we can type less code.
 
 We will *not* be typing sequences of numbers.  We *will* use `Range`s instead.  A `Range` is a type of collection
 

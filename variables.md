@@ -16,4 +16,4 @@ You _should_ use a computer to do equations like you do in algebra.
 a * 2908976890
 ```
 
-Try experimenting with other math problems.  You should try some of the questions on your algebra assignment that's due tomorrow.
+Experimenting with expressions from your algebra assignment that's due tomorrow.

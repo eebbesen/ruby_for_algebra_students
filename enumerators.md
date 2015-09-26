@@ -22,4 +22,12 @@ This calls the add method on each value in our collection using that value as a 
 end
 ```
 
+Cool, huh?  Here's how you can use an enumerator to remind yourself of your times table for the number eight:
+```ruby
+(1..10).each do |num|
+  puts num * 8
+end
+```
+
+
 
