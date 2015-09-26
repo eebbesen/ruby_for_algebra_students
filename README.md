@@ -14,6 +14,7 @@ or
 
 ## Lesson order
 Here's the order I use, but you are free to do what you want
+
 1. variables
 2. loops
 3. looping_with_each
