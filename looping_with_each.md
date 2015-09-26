@@ -1,7 +1,7 @@
 End goal:
 
 ```ruby
-1..9).each do |num|
+(1..9).each do |num|
   puts "#{num} * #{tt} = #{num * tt}"
 end
 
